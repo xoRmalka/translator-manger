@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{9566DF71-72CF-459E-9EF8-C0015027A118}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TranslationManagementServer", "Server\TranslationManagementServer\TranslationManagementServer.csproj", "{CD813805-0F00-47A7-9F78-07999FEA3BA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD813805-0F00-47A7-9F78-07999FEA3BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD813805-0F00-47A7-9F78-07999FEA3BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD813805-0F00-47A7-9F78-07999FEA3BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD813805-0F00-47A7-9F78-07999FEA3BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD813805-0F00-47A7-9F78-07999FEA3BA7} = {9566DF71-72CF-459E-9EF8-C0015027A118}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FF1B174-26FA-4D5F-9F4D-232CB9AD36AE}
+	EndGlobalSection
+EndGlobal
